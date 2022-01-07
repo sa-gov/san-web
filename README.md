@@ -3,7 +3,7 @@
 
 The San Andreas State Template is an HTML template and website standard created by the California Department of Technology to state agencies and departments within the State of California and beyond. Please visit webstandards.ca.gov for more information.
 
-This is a modified version of the template used to create internal websites for the State of San Andreas' Agencies within GoldFieldRP.
+This is a modified version of the template used to create internal websites for the State of San Andreas' Agencies within PJRP.
 
 We encourage you to utilize GitHub to provide feedback and collaborate on the development of the next San Andreas State Template! For questions please email hmayotte@mdhholdings.org
 
