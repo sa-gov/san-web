@@ -1,5 +1,5 @@
 # San Andreas State Template
-## Version 1.6.22
+## Version 1.9.22
 
 The San Andreas State Template is an HTML template and website standard created by the California Department of Technology to state agencies and departments within the State of California and beyond. Please visit webstandards.ca.gov for more information.
 
